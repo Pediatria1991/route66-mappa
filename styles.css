@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f2e7;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #d94a38;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+#mappa-route66 {
+    width: 100%;
+    height: 500px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+
+#donazioni button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#donazioni button:hover {
+    background-color: #45a049;
+}
+
+footer {
+    background-color: #d94a38;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
